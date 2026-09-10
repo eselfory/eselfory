@@ -19,12 +19,12 @@
 
 ### 📌 Proyectos
 
-| Proyecto | De qué va |
-|---|---|
-| [**kiosko-app**](https://github.com/eselfory/kiosko-app) | Sistema POS para kioscos con asistente IA — React · Node/Express · Prisma |
-| [**cs2-store**](https://github.com/eselfory/cs2-store) | Tienda de skins de CS2 full-stack — Next.js · FastAPI · MercadoPago |
-| [**Mark-XLIX**](https://github.com/eselfory/Mark-XLIX) | Asistente de IA por voz en tiempo real (fork con mejoras propias) |
-| [**VAULT-WATCHMAN**](https://github.com/eselfory/VAULT-WATCHMAN) | Concepto de producto: monitoreo de propiedades (challenge de Landeed) |
+| Proyecto | De qué va | Estado |
+|---|---|---|
+| [**Mark-XLIX**](https://github.com/eselfory/Mark-XLIX) | Asistente de IA por voz en tiempo real (fork con mejoras propias) | 🚧 En desarrollo |
+| [**kiosko-app**](https://github.com/eselfory/kiosko-app) | Sistema POS para kioscos con asistente IA — React · Node/Express · Prisma | ⏸️ Discontinuado (incompleto) |
+| [**cs2-store**](https://github.com/eselfory/cs2-store) | Tienda de skins de CS2 full-stack — Next.js · FastAPI · MercadoPago | ⏸️ Discontinuado (incompleto) |
+| [**VAULT-WATCHMAN**](https://github.com/eselfory/VAULT-WATCHMAN) | Concepto de producto: monitoreo de propiedades (challenge de Landeed) | 📐 Concepto |
 
 ### 📫 Contacto
 
